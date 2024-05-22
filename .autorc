@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "0V3RL0AD",
+  "repo": "container-tnzl51a",
+  "name": "0V3RL0AD",
+  "email": "david_carew@outlook.com",
+}
